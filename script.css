@@ -84,9 +84,6 @@ p2 {
 }
 
 .note:nth-child(4) {
-    background-image: url('https://yt3.googleusercontent.com/7vSjgh6KwOdGXZ2GfWm7Y9l77xV8NhyCUn8Gl3OCmdPVagbDGNw2mhVjRJjaIBwKFoKz7k5btas=s176-c-k-c0x00ffffff-no-rj');
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
     width: 14px;
     height: 14px;
     display: inline-block;
